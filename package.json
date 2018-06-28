@@ -1,0 +1,20 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com TDD na pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/willany/js-tdd.git)"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Willany Silva <willanylp@gmail.com>",
+  "license": "MIT"
+}
